@@ -1,0 +1,1202 @@
+{
+    "accounting intern": [
+        {
+            "1.0": "Accounting Intern",
+            "2.0": "Accounting Services Intern",
+            "3.0": "Accounting Department Intern"
+        },
+        {
+            "1.0": 0.9999998807907104,
+            "2.0": 0.9752693772315979,
+            "3.0": 0.9654386043548584
+        }
+    ],
+    "advanced account manager": [
+        {
+            "1.0": "Advanced Technology Account Executive",
+            "2.0": "Account Development Manager",
+            "3.0": "Account Support Analyst"
+        },
+        {
+            "1.0": 0.890179455280304,
+            "2.0": 0.8751572370529175,
+            "3.0": 0.8728467226028442
+        }
+    ],
+    "affiliate account manager": [
+        {
+            "1.0": "Affiliate Account Manager",
+            "2.0": "Affiliate Marketing Manager",
+            "3.0": "Affiliate Sales Manager"
+        },
+        {
+            "1.0": 0.9999998807907104,
+            "2.0": 0.8923882246017456,
+            "3.0": 0.8623831272125244
+        }
+    ],
+    "allocation analyst": [
+        {
+            "1.0": "Allocation Analyst",
+            "2.0": "Appraisal Analyst",
+            "3.0": "Assessment Analyst"
+        },
+        {
+            "1.0": 0.9999997019767761,
+            "2.0": 0.9050155878067017,
+            "3.0": 0.9048346877098083
+        }
+    ],
+    "analytics manager": [
+        {
+            "1.0": "Analytics Analyst",
+            "2.0": "Analytics Account Executive",
+            "3.0": "Analytics and Reporting Analyst"
+        },
+        {
+            "1.0": 0.9434318542480469,
+            "2.0": 0.9132673740386963,
+            "3.0": 0.910513162612915
+        }
+    ],
+    "art director/designer": [
+        {
+            "1.0": "Art Director/Production Designer",
+            "2.0": "Art Director/Production Artist",
+            "3.0": "Art Production Coordinator"
+        },
+        {
+            "1.0": 0.9719454050064087,
+            "2.0": 0.9471899271011353,
+            "3.0": 0.919897198677063
+        }
+    ],
+    "associate commerce editor": [
+        {
+            "1.0": "Associate Trade Marketing Manager",
+            "2.0": "Associate Account Director",
+            "3.0": "Associate Sales Director"
+        },
+        {
+            "1.0": 0.841604471206665,
+            "2.0": 0.8384618163108826,
+            "3.0": 0.837065577507019
+        }
+    ],
+    "associate consultant, strategy & consulting": [
+        {
+            "1.0": "Application Support Consultant",
+            "2.0": "Advisory Solution Consultant",
+            "3.0": "Associate Director of Product Development"
+        },
+        {
+            "1.0": 0.8842719197273254,
+            "2.0": 0.884246826171875,
+            "3.0": 0.8764612674713135
+        }
+    ],
+    "business operations intern": [
+        {
+            "1.0": "Administrative Marketing Intern",
+            "2.0": "Administrative and Marketing Intern",
+            "3.0": "Account Management Intern"
+        },
+        {
+            "1.0": 0.8806371688842773,
+            "2.0": 0.877285361289978,
+            "3.0": 0.8726334571838379
+        }
+    ],
+    "campaign development fellow": [
+        {
+            "1.0": "Advocacy Assistant",
+            "2.0": "Application Support Consultant",
+            "3.0": "Application Support Coordinator"
+        },
+        {
+            "1.0": 0.8268271684646606,
+            "2.0": 0.8218045234680176,
+            "3.0": 0.8152387738227844
+        }
+    ],
+    "campaign success manager": [
+        {
+            "1.0": "Account Sales Lead",
+            "2.0": "Area Sales Leader",
+            "3.0": "Agile Product Owner"
+        },
+        {
+            "1.0": 0.7693718671798706,
+            "2.0": 0.7684218883514404,
+            "3.0": 0.748187243938446
+        }
+    ],
+    "ceo and lead creative brain": [
+        {
+            "1.0": "Account Executive/Corporate Trainer",
+            "2.0": "Assistant Vice President/Team Leader",
+            "3.0": "Account Executive/Business Development Manager"
+        },
+        {
+            "1.0": 0.7750635147094727,
+            "2.0": 0.7626785039901733,
+            "3.0": 0.7523987889289856
+        }
+    ],
+    "chief people officer": [
+        {
+            "1.0": "Administrative Chief",
+            "2.0": "Assistant Operations Chief",
+            "3.0": "Assistant Section Chief"
+        },
+        {
+            "1.0": 0.878920316696167,
+            "2.0": 0.8501686453819275,
+            "3.0": 0.8454232811927795
+        }
+    ],
+    "client development": [
+        {
+            "1.0": "Application Development and Support Manager",
+            "2.0": "Application Support Team Lead",
+            "3.0": "Application Support Consultant"
+        },
+        {
+            "1.0": 0.8757083415985107,
+            "2.0": 0.8744770288467407,
+            "3.0": 0.8693057298660278
+        }
+    ],
+    "covid sabbatical": [
+        {
+            "1.0": "Author Assistant",
+            "2.0": "Annual Giving Assistant",
+            "3.0": "Assistant Director of Annual Giving"
+        },
+        {
+            "1.0": 0.6601299047470093,
+            "2.0": 0.6438586115837097,
+            "3.0": 0.629355788230896
+        }
+    ],
+    "creative & content writing intern": [
+        {
+            "1.0": "Art Production Intern",
+            "2.0": "Application Support Intern",
+            "3.0": "Account Planning Intern"
+        },
+        {
+            "1.0": 0.8053649663925171,
+            "2.0": 0.7887834906578064,
+            "3.0": 0.768565833568573
+        }
+    ],
+    "creative intern": [
+        {
+            "1.0": "Art Production Intern",
+            "2.0": "Assistant Creative Director",
+            "3.0": "Application Support Intern"
+        },
+        {
+            "1.0": 0.8257989883422852,
+            "2.0": 0.8120633959770203,
+            "3.0": 0.789206862449646
+        }
+    ],
+    "cto": [
+        {
+            "1.0": "Administrator Assistant",
+            "2.0": "Assistant",
+            "3.0": "Administrative Chief"
+        },
+        {
+            "1.0": 0.8085894584655762,
+            "2.0": 0.7969595789909363,
+            "3.0": 0.7964944243431091
+        }
+    ],
+    "customer facing data scientist": [
+        {
+            "1.0": "Application Security Analyst",
+            "2.0": "Account Technology Strategist",
+            "3.0": "Account Customer Engineer"
+        },
+        {
+            "1.0": 0.7643952965736389,
+            "2.0": 0.7613589763641357,
+            "3.0": 0.7586088180541992
+        }
+    ],
+    "customer insight executive": [
+        {
+            "1.0": "Assistant Customer Experience Manager",
+            "2.0": "Application Sales Executive",
+            "3.0": "Account Management Executive/Sales Professional"
+        },
+        {
+            "1.0": 0.8940129280090332,
+            "2.0": 0.8925051689147949,
+            "3.0": 0.8692219257354736
+        }
+    ],
+    "data scientist, algorithm engineer": [
+        {
+            "1.0": "Applied Data Scientist",
+            "2.0": "Application and Database Developer",
+            "3.0": "Application Data Processor"
+        },
+        {
+            "1.0": 0.8364806175231934,
+            "2.0": 0.8259871602058411,
+            "3.0": 0.8172995448112488
+        }
+    ],
+    "digital marketing content writer": [
+        {
+            "1.0": "Associate Digital Marketing Manager",
+            "2.0": "Associate Director of Digital Marketing",
+            "3.0": "Assistant Digital Marketing Manager"
+        },
+        {
+            "1.0": 0.902499258518219,
+            "2.0": 0.8992916941642761,
+            "3.0": 0.8697824478149414
+        }
+    ],
+    "director of marketing": [
+        {
+            "1.0": "Assistant Director of Marketing",
+            "2.0": "Assistant Director of Marketing and Communications",
+            "3.0": "Assistant Director of Marketing and Public Relations"
+        },
+        {
+            "1.0": 0.9429495334625244,
+            "2.0": 0.9337035417556763,
+            "3.0": 0.9308298230171204
+        }
+    ],
+    "director, seo": [
+        {
+            "1.0": "Application Support Coordinator",
+            "2.0": "Application Support Administrator",
+            "3.0": "Assistant Director of Outreach"
+        },
+        {
+            "1.0": 0.7896678447723389,
+            "2.0": 0.7634143829345703,
+            "3.0": 0.7613886594772339
+        }
+    ],
+    "director, strategic accounts": [
+        {
+            "1.0": "Assistant Director of Planning",
+            "2.0": "Account Operations Director",
+            "3.0": "Area Director of Human Resources"
+        },
+        {
+            "1.0": 0.8665115833282471,
+            "2.0": 0.8617681860923767,
+            "3.0": 0.8594933748245239
+        }
+    ],
+    "emea sales development representative": [
+        {
+            "1.0": "Area Director of Sales",
+            "2.0": "Applications Sales Representative",
+            "3.0": "Agency Sales Representative"
+        },
+        {
+            "1.0": 0.9042423963546753,
+            "2.0": 0.9027809500694275,
+            "3.0": 0.9014588594436646
+        }
+    ],
+    "employment paralegal": [
+        {
+            "1.0": "Assistant Custodial Manager",
+            "2.0": "Assistant Shift Supervisor",
+            "3.0": "Assistant Front End Department Manager"
+        },
+        {
+            "1.0": 0.7806436419487,
+            "2.0": 0.7791009545326233,
+            "3.0": 0.7712480425834656
+        }
+    ],
+    "engineer ii, platform": [
+        {
+            "1.0": "Advanced Support Engineer",
+            "2.0": "Assistant Director of Engineering",
+            "3.0": "Advanced Technical Support Engineer"
+        },
+        {
+            "1.0": 0.7657809257507324,
+            "2.0": 0.7571917176246643,
+            "3.0": 0.7560802698135376
+        }
+    ],
+    "enterprise account executive": [
+        {
+            "1.0": "Account Executive Manager",
+            "2.0": "Account Executive/Business Development Manager",
+            "3.0": "Account Executive/Operations Manager"
+        },
+        {
+            "1.0": 0.932062029838562,
+            "2.0": 0.9264974594116211,
+            "3.0": 0.9253628849983215
+        }
+    ],
+    "enterprise account executive, google cloud": [
+        {
+            "1.0": "Analytics Account Executive",
+            "2.0": "Assistant Social Media Manager",
+            "3.0": "Application Developer/Business Analyst"
+        },
+        {
+            "1.0": 0.7003332376480103,
+            "2.0": 0.6978337168693542,
+            "3.0": 0.6811126470565796
+        }
+    ],
+    "fashion intern": [
+        {
+            "1.0": "Assistant Apparel Designer",
+            "2.0": "Administrative and Marketing Intern",
+            "3.0": "Administrative Marketing Intern"
+        },
+        {
+            "1.0": 0.8219877481460571,
+            "2.0": 0.7438606023788452,
+            "3.0": 0.7386404871940613
+        }
+    ],
+    "field marketing coordinator": [
+        {
+            "1.0": "Area Marketing Coordinator",
+            "2.0": "Area Marketing Manager",
+            "3.0": "Area Marketing Director"
+        },
+        {
+            "1.0": 0.9404821395874023,
+            "2.0": 0.89735347032547,
+            "3.0": 0.8838272094726562
+        }
+    ],
+    "founder & board member": [
+        {
+            "1.0": "Assistant General Counsel/Executive Director",
+            "2.0": "Assisted Living Executive Director",
+            "3.0": "Assistant Managing Director"
+        },
+        {
+            "1.0": 0.7609378695487976,
+            "2.0": 0.7556690573692322,
+            "3.0": 0.7519638538360596
+        }
+    ],
+    "gbs dept.": [
+        {
+            "1.0": "Associate Chief",
+            "2.0": "Administrator Assistant",
+            "3.0": "Area Assistant"
+        },
+        {
+            "1.0": 0.7120622396469116,
+            "2.0": 0.7113873362541199,
+            "3.0": 0.7049666047096252
+        }
+    ],
+    "global content team lead": [
+        {
+            "1.0": "Application Support Team Lead",
+            "2.0": "Assistant Director of Event Technology",
+            "3.0": "Area Human Resources Business Partner"
+        },
+        {
+            "1.0": 0.7614719867706299,
+            "2.0": 0.75356525182724,
+            "3.0": 0.7466051578521729
+        }
+    ],
+    "global supply chain - intern": [
+        {
+            "1.0": "Affiliate Marketing Intern",
+            "2.0": "Account Planning Intern",
+            "3.0": "Administrative and Marketing Intern"
+        },
+        {
+            "1.0": 0.8009775876998901,
+            "2.0": 0.7720603942871094,
+            "3.0": 0.7661631107330322
+        }
+    ],
+    "gm of distribution business, head of business development": [
+        {
+            "1.0": "Account Director of Business Development",
+            "2.0": "Assistant Director of Business Operations",
+            "3.0": "Assistant Director of Marketing and Business Development"
+        },
+        {
+            "1.0": 0.8285461068153381,
+            "2.0": 0.825360894203186,
+            "3.0": 0.8225821852684021
+        }
+    ],
+    "go to market - consultant": [
+        {
+            "1.0": "Associate Market Manager",
+            "2.0": "Advisory Solution Consultant",
+            "3.0": "Area Sales Consultant"
+        },
+        {
+            "1.0": 0.8024150729179382,
+            "2.0": 0.797074556350708,
+            "3.0": 0.7752329707145691
+        }
+    ],
+    "head of customer facing data science": [
+        {
+            "1.0": "Account Technology Strategist",
+            "2.0": "Applications Developer/Database Administrator",
+            "3.0": "Application Systems Analyst"
+        },
+        {
+            "1.0": 0.7998690605163574,
+            "2.0": 0.796377956867218,
+            "3.0": 0.7878018021583557
+        }
+    ],
+    "head of growth strategy": [
+        {
+            "1.0": "Account Growth Executive",
+            "2.0": "Assistant Director of Business Development",
+            "3.0": "Account Director of Business Development"
+        },
+        {
+            "1.0": 0.8570976853370667,
+            "2.0": 0.8067996501922607,
+            "3.0": 0.7942314743995667
+        }
+    ],
+    "head of martech and marketing operations": [
+        {
+            "1.0": "Area Director of Sales and Marketing",
+            "2.0": "Assistant Director of Marketing and Promotions",
+            "3.0": "Assistant Director of Sales and Marketing"
+        },
+        {
+            "1.0": 0.8335301876068115,
+            "2.0": 0.8329004049301147,
+            "3.0": 0.8325631618499756
+        }
+    ],
+    "head of product": [
+        {
+            "1.0": "Assistant Product Director",
+            "2.0": "Administrative/Human Resources Manager",
+            "3.0": "Associate Product Line Manager"
+        },
+        {
+            "1.0": 0.85856032371521,
+            "2.0": 0.8469745516777039,
+            "3.0": 0.8392709493637085
+        }
+    ],
+    "human resource generalist": [
+        {
+            "1.0": "Area Director of Human Resources",
+            "2.0": "Area Human Resources Manager",
+            "3.0": "Administrative/Human Resources Manager"
+        },
+        {
+            "1.0": 0.889332115650177,
+            "2.0": 0.871524453163147,
+            "3.0": 0.8538408279418945
+        }
+    ],
+    "it systems engineer intern": [
+        {
+            "1.0": "Application Programmer Analyst",
+            "2.0": "Application Support Intern",
+            "3.0": "Assistant IT Manager"
+        },
+        {
+            "1.0": 0.807621955871582,
+            "2.0": 0.7992298603057861,
+            "3.0": 0.7980272769927979
+        }
+    ],
+    "lead data scientist": [
+        {
+            "1.0": "Applied Data Scientist",
+            "2.0": "Analyst/Developer Lead",
+            "3.0": "Application Support Team Lead"
+        },
+        {
+            "1.0": 0.8340669274330139,
+            "2.0": 0.7953171133995056,
+            "3.0": 0.7917066812515259
+        }
+    ],
+    "living environment and special education teacher": [
+        {
+            "1.0": "Assistant Director/Preschool Teacher",
+            "2.0": "Assistant Family Teacher",
+            "3.0": "Assistant Professor of Special Education"
+        },
+        {
+            "1.0": 0.7999408841133118,
+            "2.0": 0.7967981100082397,
+            "3.0": 0.7609606981277466
+        }
+    ],
+    "machine learning big data engineer": [
+        {
+            "1.0": "Application and Database Developer",
+            "2.0": "Assistant Professor of Computer Science",
+            "3.0": "Applications Development Programmer Analyst"
+        },
+        {
+            "1.0": 0.6986250877380371,
+            "2.0": 0.6939976215362549,
+            "3.0": 0.6782841086387634
+        }
+    ],
+    "manager | market development": [
+        {
+            "1.0": "Acquisition Marketing Manager",
+            "2.0": "Area Marketing Coordinator",
+            "3.0": "Associate Market Manager"
+        },
+        {
+            "1.0": 0.8512663245201111,
+            "2.0": 0.830765962600708,
+            "3.0": 0.8198004961013794
+        }
+    ],
+    "manager, marketing and business development": [
+        {
+            "1.0": "Assistant Director of Marketing and Business Development",
+            "2.0": "Account and Marketing Manager",
+            "3.0": "Account Director of Business Development"
+        },
+        {
+            "1.0": 0.934905469417572,
+            "2.0": 0.9120901823043823,
+            "3.0": 0.9022377729415894
+        }
+    ],
+    "marketing and social media intern": [
+        {
+            "1.0": "Assistant Social Media Manager",
+            "2.0": "Administrative Assistant/Social Media Manager",
+            "3.0": "Administrative Assistant/Social Media Coordinator"
+        },
+        {
+            "1.0": 0.8568955063819885,
+            "2.0": 0.8436316251754761,
+            "3.0": 0.833305835723877
+        }
+    ],
+    "member technical staff, cybersecurity r&d": [
+        {
+            "1.0": "Assistant Director of Information Technology",
+            "2.0": "Applications Systems Analyst/Programmer",
+            "3.0": "Application Security Analyst"
+        },
+        {
+            "1.0": 0.7875972986221313,
+            "2.0": 0.7839080095291138,
+            "3.0": 0.7822628617286682
+        }
+    ],
+    "mentor at techstars tel aviv": [
+        {
+            "1.0": "Assistant Professor of Entrepreneurship",
+            "2.0": ".NET Developer/Analyst",
+            "3.0": "Analyst/Developer Lead"
+        },
+        {
+            "1.0": 0.6905328035354614,
+            "2.0": 0.6852589845657349,
+            "3.0": 0.6712468862533569
+        }
+    ],
+    "office manager & ea to ceo": [
+        {
+            "1.0": "Account Executive/Corporate Trainer",
+            "2.0": "Account Executive/Office Manager",
+            "3.0": "Account Manager/Corporate Trainer"
+        },
+        {
+            "1.0": 0.8457831144332886,
+            "2.0": 0.8345540761947632,
+            "3.0": 0.8296282291412354
+        }
+    ],
+    "official translator and legal aid": [
+        {
+            "1.0": "Administrative and Legal Assistant",
+            "2.0": "Assistant Legal Counsel",
+            "3.0": "Assistant Counsel"
+        },
+        {
+            "1.0": 0.8017394542694092,
+            "2.0": 0.7720482349395752,
+            "3.0": 0.7418621778488159
+        }
+    ],
+    "pardot account executive - growth business": [
+        {
+            "1.0": "Account Growth Executive",
+            "2.0": "Account Director of Enterprise Sales",
+            "3.0": "Account Executive/Business Development Manager"
+        },
+        {
+            "1.0": 0.929263710975647,
+            "2.0": 0.8240360021591187,
+            "3.0": 0.8170789480209351
+        }
+    ],
+    "principle web developer": [
+        {
+            "1.0": "Application Support Developer",
+            "2.0": "Application Solution Architect",
+            "3.0": ".NET Developer/Analyst"
+        },
+        {
+            "1.0": 0.816832423210144,
+            "2.0": 0.7990196943283081,
+            "3.0": 0.7886658906936646
+        }
+    ],
+    "product manager": [
+        {
+            "1.0": "Assistant Product Manager",
+            "2.0": "Assistant Product Line Manager",
+            "3.0": "Associate Product Manager"
+        },
+        {
+            "1.0": 0.9179137349128723,
+            "2.0": 0.9000896215438843,
+            "3.0": 0.8995727300643921
+        }
+    ],
+    "product owner , product&marketing division": [
+        {
+            "1.0": "Associate Product Line Manager",
+            "2.0": "Acquisition Marketing Manager",
+            "3.0": "Associate Product Marketing Manager"
+        },
+        {
+            "1.0": 0.8545451164245605,
+            "2.0": 0.8500189781188965,
+            "3.0": 0.8473652005195618
+        }
+    ],
+    "production intern": [
+        {
+            "1.0": "Administrative Support Intern",
+            "2.0": "Art Production Intern",
+            "3.0": "Assistant Management Trainee"
+        },
+        {
+            "1.0": 0.8926354050636292,
+            "2.0": 0.886631965637207,
+            "3.0": 0.8799806833267212
+        }
+    ],
+    "proprietor": [
+        {
+            "1.0": "Administrative Chief",
+            "2.0": "Access Assistant",
+            "3.0": "Administrator Support Specialist"
+        },
+        {
+            "1.0": 0.7941291928291321,
+            "2.0": 0.7850276827812195,
+            "3.0": 0.7806831002235413
+        }
+    ],
+    "regional manager - apac (formerly emailvision)": [
+        {
+            "1.0": "Assistant Vice President/Branch Service Manager",
+            "2.0": "Application Services Account Executive",
+            "3.0": "Assistant Vice President/Escrow Officer"
+        },
+        {
+            "1.0": 0.7535234689712524,
+            "2.0": 0.7523626089096069,
+            "3.0": 0.7438778877258301
+        }
+    ],
+    "research engineer team leader": [
+        {
+            "1.0": "Analyst/Research Engineer",
+            "2.0": "Assistant Scientist",
+            "3.0": "Assistant Professor of Engineering"
+        },
+        {
+            "1.0": 0.8761191368103027,
+            "2.0": 0.8337188959121704,
+            "3.0": 0.816132664680481
+        }
+    ],
+    "sales development executive": [
+        {
+            "1.0": "Application Sales Executive",
+            "2.0": "Account Executive/Sales Director",
+            "3.0": "Acquisition Sales Manager"
+        },
+        {
+            "1.0": 0.9482181072235107,
+            "2.0": 0.9278777241706848,
+            "3.0": 0.9199585914611816
+        }
+    ],
+    "sales operations analyst": [
+        {
+            "1.0": "Account Sales Consultant",
+            "2.0": "Account Sales Engineer",
+            "3.0": "Account Sales Manager"
+        },
+        {
+            "1.0": 0.9148854613304138,
+            "2.0": 0.9091849327087402,
+            "3.0": 0.8996269702911377
+        }
+    ],
+    "sales operations coordinator": [
+        {
+            "1.0": "Acquisition Sales Manager",
+            "2.0": "Administrative Assistant/Sales Coordinator",
+            "3.0": "Assistant Director of Sales"
+        },
+        {
+            "1.0": 0.9494324326515198,
+            "2.0": 0.9491164088249207,
+            "3.0": 0.9472339153289795
+        }
+    ],
+    "sales representative": [
+        {
+            "1.0": "Agency Sales Representative",
+            "2.0": "Association Sales Manager",
+            "3.0": "Assistant Sales Representative"
+        },
+        {
+            "1.0": 0.9583847522735596,
+            "2.0": 0.9386569261550903,
+            "3.0": 0.9335770010948181
+        }
+    ],
+    "senior account executive": [
+        {
+            "1.0": "Account Executive/Team Leader",
+            "2.0": "Account Executive",
+            "3.0": "Account Management Executive"
+        },
+        {
+            "1.0": 0.8933889865875244,
+            "2.0": 0.8809566497802734,
+            "3.0": 0.8742321729660034
+        }
+    ],
+    "senior devops engineer": [
+        {
+            "1.0": "Area Chief Engineer",
+            "2.0": "Assistant Engineering Manager",
+            "3.0": "Assistant Director of Engineering"
+        },
+        {
+            "1.0": 0.7861902117729187,
+            "2.0": 0.7759464979171753,
+            "3.0": 0.751237154006958
+        }
+    ],
+    "senior director, field operations": [
+        {
+            "1.0": "Assistant Field Director",
+            "2.0": "Assistant Director of Operations",
+            "3.0": "Assistant Director of Planning"
+        },
+        {
+            "1.0": 0.8681414127349854,
+            "2.0": 0.8554577231407166,
+            "3.0": 0.8363673686981201
+        }
+    ],
+    "senior director, sales": [
+        {
+            "1.0": "Assistant General Manager/Director of Sales",
+            "2.0": "Assistant Director of Sales",
+            "3.0": "Account Executive/Sales Director"
+        },
+        {
+            "1.0": 0.9166078567504883,
+            "2.0": 0.9134409427642822,
+            "3.0": 0.9050966501235962
+        }
+    ],
+    "senior java developer consultant": [
+        {
+            "1.0": "Application Developer Analyst",
+            "2.0": "Application Analyst and Developer",
+            "3.0": "Application Programmer Analyst"
+        },
+        {
+            "1.0": 0.8113749027252197,
+            "2.0": 0.805121123790741,
+            "3.0": 0.7936466336250305
+        }
+    ],
+    "senior manager, global client development": [
+        {
+            "1.0": "Assistant Vice President/Client Manager",
+            "2.0": "Assistant Vice President/Team Leader",
+            "3.0": "Assistant Vice President/Client Service Manager"
+        },
+        {
+            "1.0": 0.8098253011703491,
+            "2.0": 0.8078328371047974,
+            "3.0": 0.8068068027496338
+        }
+    ],
+    "senior sales development representative": [
+        {
+            "1.0": "Account Executive/Sales Director",
+            "2.0": "Assistant Manager/Lead Sales Associate",
+            "3.0": "Assistant Manager/Sales Lead"
+        },
+        {
+            "1.0": 0.8732209205627441,
+            "2.0": 0.8710147738456726,
+            "3.0": 0.8700034618377686
+        }
+    ],
+    "senior technical recruiter": [
+        {
+            "1.0": "Assistant Technical Manager",
+            "2.0": "Administrative and Technical Assistant",
+            "3.0": "Assistant Technical Director"
+        },
+        {
+            "1.0": 0.7886511087417603,
+            "2.0": 0.7866899967193604,
+            "3.0": 0.775300920009613
+        }
+    ],
+    "seo consultant and social media strategist": [
+        {
+            "1.0": "Assistant Social Media Manager",
+            "2.0": "Administrative Assistant/Social Media Manager",
+            "3.0": "Administrative Assistant/Social Media Coordinator"
+        },
+        {
+            "1.0": 0.8267205953598022,
+            "2.0": 0.8167957067489624,
+            "3.0": 0.8092968463897705
+        }
+    ],
+    "seo manager": [
+        {
+            "1.0": "Application Product Manager",
+            "2.0": "Account Based Marketing Manager",
+            "3.0": "Application Sales Manager"
+        },
+        {
+            "1.0": 0.7800688743591309,
+            "2.0": 0.7642956972122192,
+            "3.0": 0.7532352209091187
+        }
+    ],
+    "server developer": [
+        {
+            "1.0": "Applications Developer/Database Administrator",
+            "2.0": "Application Product Manager",
+            "3.0": "Application Support Developer"
+        },
+        {
+            "1.0": 0.857821524143219,
+            "2.0": 0.856691837310791,
+            "3.0": 0.851345956325531
+        }
+    ],
+    "shareholder & advisor": [
+        {
+            "1.0": "Account Executive Owner",
+            "2.0": "Account Advisor",
+            "3.0": "Assistant Vice President/Wealth Management Advisor"
+        },
+        {
+            "1.0": 0.8258018493652344,
+            "2.0": 0.8179317712783813,
+            "3.0": 0.8176906704902649
+        }
+    ],
+    "social media chair, public relations chair, risk management chair": [
+        {
+            "1.0": "Administrative Assistant/Social Media Coordinator",
+            "2.0": "Administrative Assistant/Social Media Manager",
+            "3.0": "Assistant Social Media Manager"
+        },
+        {
+            "1.0": 0.7964296340942383,
+            "2.0": 0.7849857807159424,
+            "3.0": 0.7672569751739502
+        }
+    ],
+    "social media marketing intern": [
+        {
+            "1.0": "Assistant Social Media Manager",
+            "2.0": "Administrative Assistant/Social Media Manager",
+            "3.0": "Administrative Assistant/Social Media Coordinator"
+        },
+        {
+            "1.0": 0.8646416664123535,
+            "2.0": 0.8394302129745483,
+            "3.0": 0.8219563364982605
+        }
+    ],
+    "software developer": [
+        {
+            "1.0": "Application Analyst and Developer",
+            "2.0": "Application Programmer Analyst",
+            "3.0": "Application Developer Analyst"
+        },
+        {
+            "1.0": 0.9055032134056091,
+            "2.0": 0.8964591026306152,
+            "3.0": 0.895469069480896
+        }
+    ],
+    "software engineering team lead": [
+        {
+            "1.0": "Applications Development Programmer Analyst",
+            "2.0": "Application Programmer Analyst",
+            "3.0": "Applications Systems Analyst/Programmer"
+        },
+        {
+            "1.0": 0.8653879165649414,
+            "2.0": 0.8627997636795044,
+            "3.0": 0.8557841777801514
+        }
+    ],
+    "software verification engineer": [
+        {
+            "1.0": "Application Programmer Analyst",
+            "2.0": "Application Support Engineer",
+            "3.0": "Applications Systems Analyst/Programmer"
+        },
+        {
+            "1.0": 0.8686147928237915,
+            "2.0": 0.8558927774429321,
+            "3.0": 0.8533948659896851
+        }
+    ],
+    "sr. director of enterprise sales - east": [
+        {
+            "1.0": "Area Vice President of Sales",
+            "2.0": "Area Director of Sales",
+            "3.0": "Account Director of Enterprise Sales"
+        },
+        {
+            "1.0": 0.7696610689163208,
+            "2.0": 0.7471200823783875,
+            "3.0": 0.7368097901344299
+        }
+    ],
+    "sr. field marketing manager": [
+        {
+            "1.0": "Area Marketing Manager",
+            "2.0": "Area Marketing Director",
+            "3.0": "Area Marketing Coordinator"
+        },
+        {
+            "1.0": 0.8655655980110168,
+            "2.0": 0.8546270132064819,
+            "3.0": 0.8532794117927551
+        }
+    ],
+    "sr. php engineer": [
+        {
+            "1.0": "Application Support Engineer",
+            "2.0": "Area Chief Engineer",
+            "3.0": "Assistant Director of Engineering"
+        },
+        {
+            "1.0": 0.7073541283607483,
+            "2.0": 0.7020180225372314,
+            "3.0": 0.6939725875854492
+        }
+    ],
+    "sr. product designer": [
+        {
+            "1.0": "Assistant Design Manager",
+            "2.0": "Art Director/Production Designer",
+            "3.0": "Assistant Apparel Designer"
+        },
+        {
+            "1.0": 0.8177894949913025,
+            "2.0": 0.8090867400169373,
+            "3.0": 0.7932513952255249
+        }
+    ],
+    "sr. software eng.": [
+        {
+            "1.0": "Application Data Processor",
+            "2.0": "Application Support Administrator",
+            "3.0": "Application Support Engineer"
+        },
+        {
+            "1.0": 0.8356890678405762,
+            "2.0": 0.8130516409873962,
+            "3.0": 0.8109169006347656
+        }
+    ],
+    "stockbroker": [
+        {
+            "1.0": "Asset Accountant",
+            "2.0": "Account Merchandiser",
+            "3.0": "Accountant Specialist"
+        },
+        {
+            "1.0": 0.7765244245529175,
+            "2.0": 0.7664727568626404,
+            "3.0": 0.7658916711807251
+        }
+    ],
+    "student worker": [
+        {
+            "1.0": "Assistant Director of Student Life",
+            "2.0": "Assistant Student Manager",
+            "3.0": "Assistant Director of Student Activities"
+        },
+        {
+            "1.0": 0.8572069406509399,
+            "2.0": 0.8518258333206177,
+            "3.0": 0.8511714935302734
+        }
+    ],
+    "talent partner": [
+        {
+            "1.0": "Assistant Talent Manager",
+            "2.0": "Assistance Coordinator",
+            "3.0": "Advantage Solutions Event Specialist"
+        },
+        {
+            "1.0": 0.7562798261642456,
+            "2.0": 0.7430092692375183,
+            "3.0": 0.7377387285232544
+        }
+    ],
+    "teacher assistant": [
+        {
+            "1.0": "Assistant Teacher",
+            "2.0": "Assistant Head Teacher",
+            "3.0": "Assistant Principal/Teacher"
+        },
+        {
+            "1.0": 0.977710485458374,
+            "2.0": 0.9584746956825256,
+            "3.0": 0.9427118301391602
+        }
+    ],
+    "teaching assistant / undergraduate academic assistant": [
+        {
+            "1.0": "Assistant Director of Undergraduate Admissions",
+            "2.0": "Academic Advisor/Graduate Assistant",
+            "3.0": "Academic Program Assistant"
+        },
+        {
+            "1.0": 0.8823940753936768,
+            "2.0": 0.8599599599838257,
+            "3.0": 0.8480733036994934
+        }
+    ],
+    "test engineer": [
+        {
+            "1.0": "Analyst/Research Engineer",
+            "2.0": "Assistant Director of Engineering",
+            "3.0": "Application Support Engineer"
+        },
+        {
+            "1.0": 0.8449441194534302,
+            "2.0": 0.8196065425872803,
+            "3.0": 0.7997075915336609
+        }
+    ],
+    "tools & solutions team leader": [
+        {
+            "1.0": "Application Support Team Lead",
+            "2.0": "Application Technical Support Specialist",
+            "3.0": "Application Solutions Consultant"
+        },
+        {
+            "1.0": 0.8960416316986084,
+            "2.0": 0.8692115545272827,
+            "3.0": 0.8682461977005005
+        }
+    ],
+    "vp business development": [
+        {
+            "1.0": "Account Director of Business Development",
+            "2.0": "Assistant Director of Business Development",
+            "3.0": "Account Executive/Business Development Manager"
+        },
+        {
+            "1.0": 0.8573498725891113,
+            "2.0": 0.8329603672027588,
+            "3.0": 0.8284481763839722
+        }
+    ],
+    "vp of hr": [
+        {
+            "1.0": "Assistant Director/Office Manager",
+            "2.0": "Administrator/Personal Assistant",
+            "3.0": "Administrative/Personal Assistant"
+        },
+        {
+            "1.0": 0.7939977049827576,
+            "2.0": 0.7892679572105408,
+            "3.0": 0.7886275053024292
+        }
+    ],
+    "vp, product management": [
+        {
+            "1.0": "Account Executive/Production Manager",
+            "2.0": "Account Executive/Operations Manager",
+            "3.0": "Account Executive/Project Manager"
+        },
+        {
+            "1.0": 0.849238395690918,
+            "2.0": 0.8407343626022339,
+            "3.0": 0.8371152877807617
+        }
+    ],
+    "web analyst": [
+        {
+            "1.0": ".NET Developer/Analyst",
+            "2.0": ".NET Programmer Analyst",
+            "3.0": "Application and Database Developer"
+        },
+        {
+            "1.0": 0.8111894130706787,
+            "2.0": 0.808440089225769,
+            "3.0": 0.8035564422607422
+        }
+    ],
+    "webmaster and hardware/software technician": [
+        {
+            "1.0": "Applications Developer/Database Administrator",
+            "2.0": "Application Product Manager",
+            "3.0": "Application and Database Developer"
+        },
+        {
+            "1.0": 0.8282990455627441,
+            "2.0": 0.8161697387695312,
+            "3.0": 0.8105534911155701
+        }
+    ]
+}
