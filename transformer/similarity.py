@@ -127,7 +127,7 @@ class SemanticSimilarity:
 
 if __name__ == "__main__":
     df = pd.read_csv(
-        "/Users/sheenmccullough/workspace/SemanticTitleSearch/output_matches/top_matches_flatten.csv"
+        "/output_matches/top_matches_flatten.csv"
     )
     l_df = data_setup.melt(df, thresh=0.9)
     X = l_df.drop(["label"], axis=1)
