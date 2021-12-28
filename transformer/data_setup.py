@@ -53,5 +53,5 @@ class JobMatchDataset:
 
 if __name__ == "__main__":
     df = pd.read_csv(
-        "/Users/sheenmccullough/workspace/SemanticTitleSearch/output_matches/top_matches_flatten.csv"
+        "output_matches/top_matches_flatten.csv"
     )
